@@ -1,0 +1,8 @@
+bom
+
+oshpark quicklink: https://oshpark.com/shared_projects/obwYxr6T
+
+see http://digikey.com
+
+1 usb A		WM7087CT-ND 
+2 usb mini-B	WM17115-ND 
